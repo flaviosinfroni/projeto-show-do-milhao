@@ -1,0 +1,201 @@
+* {
+	font-family:Arial;
+}
+body {
+	margin:0;
+	padding:0;
+	
+}
+
+.topo {
+	height:50px;
+	background-color:#353535;
+}
+.topointerior {
+	width:1000px;
+	margin:auto;
+	color:#FFFFFF;
+}
+.logomarca {
+	float:left;
+	font-size:24px;
+	line-height: 50px;
+}
+
+.menu {
+	float:right;
+}
+.menu ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.menu li {
+	margin:0;
+	padding:0;
+	list-style:none;
+	font-size:24px;
+	line-height: 50px;
+}
+.menu li {
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:14px;
+	cursor:pointer;
+}
+.menu li:hover {
+	background-color:#3480c1;
+}
+
+.banner {
+	height:150px;
+	background-color:rgb(38,97,131);
+}
+.areapergunta {
+	height: 550px;
+	width: 100%;
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:14px;
+	background-color: rgb(38,97,131);
+}
+
+.pergunta {
+	width: 100%;
+	height:110px;
+	font-size:20px;
+	text-align:center;
+	line-height:56px;
+	margin-top:20px;
+	border-radius:5px;
+	margin-right: 50px;
+}
+
+.perguntaleft{
+	width: 50%;
+	height:110px;
+	float: left;
+	
+}
+
+.perguntaright{
+	width: 50%;
+	height:110px;
+	float: right;
+}
+
+
+.respostaleft{
+	width: 50%;
+	height:110px;
+	float: left;
+	cursor:pointer;
+	
+	
+}
+.respostaright{
+	width: 50%;
+	height:110px;
+	float: right;
+	
+	
+}
+.ajudasuperior{
+	float: right;
+	margin-right: 230px;
+	cursor:pointer;
+}
+
+.ajudainferior{
+	float: right;
+	margin-right: 180px;
+	cursor:pointer;
+}
+
+.parar {
+
+	background-color:#ffc001;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:center;
+	line-height:56px;
+	margin-top:20px;
+	cursor:pointer;
+	border-radius:5px;
+	float: right;
+	margin-right: 250px;
+}
+
+
+.resposta1 {
+	background-color:red;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:left;
+	line-height:56px;
+	margin-top:20px;
+	border-radius:5px;
+	color: white;
+	border: 2px solid white;
+	
+
+
+}
+.resposta2 {
+	background-color:red;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:left;
+	line-height:56px;
+	margin-top:20px;
+	border-radius:5px;
+	color: white;
+	border: 2px solid white;
+
+}
+.resposta3 {
+	background-color:red;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:left;
+	line-height:56px;
+	margin-top:20px;
+	border-radius:5px;
+	color: white;
+	border: 2px solid white;
+
+}
+.resposta4 {
+	background-color:red;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:left;
+	line-height:56px;
+	margin-top:20px;
+	border-radius:5px;
+	color: white;
+	border: 2px solid white;
+
+
+}
+
+.botao {
+	background-color:#ffc001;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:center;
+	line-height:56px;
+	margin-top:200px;
+	cursor:pointer;
+	border-radius:5px;
+	float: right;
+	margin-right: 500px;
+}
